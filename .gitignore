@@ -1,0 +1,5 @@
+#word files
+*.docx
+
+#test files
+test*
