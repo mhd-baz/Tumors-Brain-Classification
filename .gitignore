@@ -1,2 +1,5 @@
 #word files
 *.docx
+
+#h5 files
+*.h5
