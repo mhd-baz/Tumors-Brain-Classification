@@ -1,11 +1,6 @@
 #word files
 *.docx
 
-#h5 files
+#All the models
 *.h5
 
-Project Instructions*
-Project Proposal*
-*.pptx
-
-test*
